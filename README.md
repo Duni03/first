@@ -1,2 +1,2 @@
-# first
-<strong>Indian food analysis</strong>
+# <strong>Indian food analysis</strong>
+
